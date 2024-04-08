@@ -12,7 +12,7 @@
             Urun urun2 = new Urun();
             urun2.UrunAdi = "Cips";
             urun2.Fiyat = 13;
-            urun2.Stok = 31;
+            urun2.Stok = 16;
 
             Urun urun3 = new Urun();
             urun3.UrunAdi = "Krem";

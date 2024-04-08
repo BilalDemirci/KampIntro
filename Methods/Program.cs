@@ -12,9 +12,9 @@
 
             Urun urun2 = new Urun();
             urun2.Id = 2;
-            urun2.Adi = "Burak";
+            urun2.Adi = "Saat";
             urun2.Fiyati = 80;
-            urun2.Aciklama = "Az Kullanılmış Kardeş Maalesef :(";
+            urun2.Aciklama = "Akıllı Kol Saati";
 
             Urun[] urunler = new Urun[] {urun1,urun2};
 
@@ -28,7 +28,7 @@
             SepetManager sepetManager = new SepetManager();
             sepetManager.Add(urun1);
             sepetManager.Add(urun2);
-            sepetManager.Ekle2();
+
 
 
 

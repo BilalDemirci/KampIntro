@@ -20,7 +20,7 @@
             Kurs kurs3 = new Kurs();
             kurs3.KursAdi = "C++";
             kurs3.Egitmen = "Burak Demirci";
-            kurs3.IzlenmeOrani = 31;
+            kurs3.IzlenmeOrani = 94;
 
             Console.WriteLine("---------------------------------");
 

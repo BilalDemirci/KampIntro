@@ -9,7 +9,7 @@
             double faizOrani = 1.44;
             bool girisYapmisMi = true;
             double dolarDun = 7.44;
-            double dolarBugun = 31.31;
+            double dolarBugun = 31.75;
 
             if (dolarDun>dolarBugun)
             {
