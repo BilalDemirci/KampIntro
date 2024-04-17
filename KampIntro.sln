@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{16890429-4D9F-453D-A3B2-AB9BB5B59A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{5611C7AE-DC68-485D-853E-B5C48BD1772B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{5611C7AE-DC68-485D-853E-B5C48BD1772B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{A1E20C2C-47AB-4BBC-89E8-FC3ADF45D6B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{A1E20C2C-47AB-4BBC-89E8-FC3ADF45D6B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{E91ACB74-F514-460D-B2FF-A92BD159B7B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{A1E20C2C-47AB-4BBC-89E8-FC3ADF45D6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E20C2C-47AB-4BBC-89E8-FC3ADF45D6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E20C2C-47AB-4BBC-89E8-FC3ADF45D6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91ACB74-F514-460D-B2FF-A92BD159B7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91ACB74-F514-460D-B2FF-A92BD159B7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91ACB74-F514-460D-B2FF-A92BD159B7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91ACB74-F514-460D-B2FF-A92BD159B7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
